@@ -4,6 +4,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
+## YOUTUBE DEMO: https://youtube.com/shorts/jaQuFvaaJk8
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
